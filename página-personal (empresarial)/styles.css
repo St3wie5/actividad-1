@@ -15,7 +15,7 @@ body {
 
 /* estilo para el encabezado */
 header {
-    background-color: #21ddee;
+    background-color: #FF5A5F;
     color: rgb(0, 0, 0);
     padding: 20px;
     text-align: center;
@@ -73,14 +73,14 @@ article img {
 }
 
 article a {
-    color: #21ddee;
+    color: #FF5A5F;
     text-decoration: none;
     font-weight: bold;
 }
 
 article a:hover {
     text-decoration: underline;
-    color:#179fac
+    color:#f32e35
 }
 
 /* Estilo para la sección de contacto */
